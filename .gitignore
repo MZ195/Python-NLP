@@ -1,2 +1,6 @@
 
 Semantic_Processing/data
+Lexical_Processing/Bag_of_words.ipynb
+.DS_Store
+*.txt
+04-Semantic_Processing/data/*
